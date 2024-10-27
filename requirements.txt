@@ -10,3 +10,4 @@ pyarrow
 statsmodels
 scipy
 shap
+streamlit-option-menu
